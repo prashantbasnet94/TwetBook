@@ -1,0 +1,4 @@
+#Thu Apr 05 12:02:52 CDT 2018
+base.0=/home/prashant/TweetBook/TwetBook/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/prashant/TweetBook/TwetBook/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/prashant/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/d74b49fd6ad991dc88a0b734d3abd49c/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}

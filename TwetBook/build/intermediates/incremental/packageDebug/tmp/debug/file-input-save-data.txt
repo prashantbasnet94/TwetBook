@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Thu Apr 05 12:02:52 CDT 2018
+1.base=/home/prashant/TweetBook/TwetBook/build/intermediates/transforms/dexMerger/debug/14
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=classes.dex
+0.set=DEX
+0.base=/home/prashant/TweetBook/TwetBook/build/intermediates/transforms/dexMerger/debug/13
+1.path=classes.dex
